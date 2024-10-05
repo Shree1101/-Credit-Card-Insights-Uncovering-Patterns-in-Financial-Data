@@ -6,6 +6,6 @@ Analysis of credit card data using R, focusing on brand distribution, security f
 2. Credit Utilization and PIN Security Study
 
 🚀 Getting Started
-Clone repository
-Install R and required libraries (dplyr, ggplot2)
-Run R scripts
+1. Clone repository
+2. Install R and required libraries (dplyr, ggplot2)
+3. Run R scripts
